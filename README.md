@@ -2,7 +2,7 @@
 
 An illustrated systems essay that uses an apple to explain how a system turns cheap, scattered energy into something dense and valuable.
 
-**Live page:** https://seanman005.github.io/THE-APPLE/
+**Live page:** https://seanman005.github.io/APPLE/
 
 ## The main idea
 
